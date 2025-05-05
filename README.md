@@ -1,38 +1,63 @@
-  # 🧠 Bem-vindo(a) ao GitHub de KlaywinR — um ambiente de criação, aprendizado e desenvolvimento em constante evolução.
+<h1 align="center">👋 Opa! Eu sou Klaywin R.
+<h3 align="center">Desenvolvedor em formação, aprendendo a programação em C, lógica e boas práticas de código limpo e eficaz!</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=klaywinr&style=flat-square&color=gray" alt="visit-count"/>
+</p>
+
+---
+
+## 🧑‍💻 Sobre Minha Pessoa:
+
+- 🎓 Estudante desenvolvendo em **linguagem C**, algoritmos e fundamentos de software.
+- 💡 Apaixonado por resolver problemas reais com código.
+- 📚 Buscando sempre aprender mais sobre estrutura de dados, programação estruturada e versionamento com Git.
+- 🚀 Em constante prática com projetos e desafios simples para fortalecer meu raciocínio lógico.
+
+---
+
+## 🛠️ Tecnologias que ultilizo no dia a dia:
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
   
-Bem-vindo(a) ao meu GitHub, onde compartilharei projetos, estudos e práticas de programação focadas em evolução técnica contínua.
-
-## 🚀 Sobre Minha Pessoa
-
-- 🎓 Estudante/Entusiasta de **linguagem C**, lógica de programação e fundamentos de software.
-- 💡 Buscando sempre aprender mais sobre desenvolvimento, algoritmos e boas práticas de codificação.
-- 🛠️ Atualmente praticando com projetos simples para fixar conceitos de estruturas condicionais, laços de repetição e organização de código.
-
-## 📌 O que você vai encontrar por aqui?
-
-- Códigos-fonte  bem comentados e pra lá de organizados
-- Exercícios resolvidos (ideal para iniciantes)
-- Programas interativos desenvolvidos em linguagem C.
-- Lógica aplicada a problemas do dia a dia
-
-## 💻 Linguagens e Ferramentas que uso:
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📈 Em constante aprendizado..
+</div>
 
-Estou sempre buscando melhorar meus conhecimentos em:
+---
 
-- Estrutura de dados
-- Programação estruturada
-- Boas práticas de código
-- Git e GitHub
+## 📁 Meus Projetos em Destaque:
 
-## 📫 Entre em contato
+| Projeto             | Descrição do Projeto                                                  | Linguagem  Usada|
+|---------------------|------------------------------------------------------------------|-----------|
+| `urna-eletronica.c` | Simulação de sistema de votação com validação de votos          | C         |
+| `calculadora.c`     | Calculadora interativa com menu de operações matemáticas        | C         |
+| `tabuada.c`         | Geração de tabuadas usando loops e entrada do usuário           | C         |
+| `validaCPF.c`       | Verifica se um CPF informado é válido ou não                    | C         |
 
-Se quiser bater um papo, tirar dúvidas ou colaborar em algum projeto, sinta-se à vontade para me chamar!
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/seu-usuario)  
+## 📈  Minhas Estatísticas
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=klaywinr&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klaywinr&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+
+---
+
+## 🤝  Meios de Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)  
 [![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:klaywindias@gmail.com)
+
+---
+
+## 💬 Comentários
+
+```txt
+🔍 Estou sempre curioso sobre como o código funciona "pela raiz".
+📚 Acredito que entender a base (como a linguagem C) é essencial para crescer com solidez e conhecimento amplo na programação.
+🤝 A comunidade é a força: compartilhar e aprender juntos é o caminho para crescer ainda mais
