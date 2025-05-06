@@ -7,7 +7,7 @@
 
 ---
 
-## 🧑‍💻 Sobre Minha Pessoa:
+## 🧑‍💻 Sobre Minha Pessoa: 
 
 - 🎓 Estudante desenvolvendo em **linguagem C**, algoritmos e fundamentos de software.
 - 💡 Apaixonado por resolver problemas reais com código.
